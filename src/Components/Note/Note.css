@@ -1,0 +1,10 @@
+.custom-textarea {
+    width: 100%;
+    height: 550px; /* Minimum height */
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    resize: vertical; /* Allows vertical resizing */
+}
