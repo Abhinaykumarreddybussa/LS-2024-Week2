@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LS-2024-Week2/static/css/main.270ca180.css",
+    "main.js": "/LS-2024-Week2/static/js/main.94b07a36.js",
+    "index.html": "/LS-2024-Week2/index.html",
+    "main.270ca180.css.map": "/LS-2024-Week2/static/css/main.270ca180.css.map",
+    "main.94b07a36.js.map": "/LS-2024-Week2/static/js/main.94b07a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270ca180.css",
+    "static/js/main.94b07a36.js"
+  ]
+}
